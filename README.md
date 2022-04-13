@@ -51,8 +51,7 @@ You can use the Weather API as following:
 2. Run the server.js to start server
 3. Open the localhost:3000 Or you host IP
 4. Input the Zip Code of the city you want to get it's weather
-
-
+5. Click Generate button to get the weather result
 
 ## History
 
