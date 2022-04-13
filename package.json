@@ -1,0 +1,25 @@
+{
+  "name": "weather-web-application",
+  "version": "1.1.0",
+  "description": "Weather Web Application based on OpenWeatherMap API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Weather",
+    "App",
+    "Weather",
+    "API",
+    "Web",
+    "Application"
+  ],
+  "author": "Ahmed Gamal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
