@@ -7,9 +7,10 @@
 3. Description
 4. Features
 5. Used Language 
-6. History
-7. Licence
-8. Footer
+6. How To Use
+7. History
+8. Licence
+9. Footer
 
 ## Description
 
@@ -43,6 +44,15 @@ This project containes:
 1. HTML 
 2. CSS
 3. JavaScript
+
+## How To Use
+You can use the Weather API as following:
+1. Add your API Key
+2. Run the server.js to start server
+3. Open the localhost:3000 Or you host IP
+4. Input the Zip Code of the city you want to get it's weather
+
+
 
 ## History
 
